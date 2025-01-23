@@ -1,8 +1,15 @@
 ## About Me 👋  
 Hi there! I'm **Shreyas Lakhotia** 👋, currently pursuing my Bachelor’s in Electrical and Electronic Engineering with a second major in Data Analytics at Nanyang Technological University, Singapore. With a passion for AI, machine learning, and embedded systems, I’m on a journey to develop innovative solutions that bridge hardware and software for impactful real-world applications.
 
-### Professional Experiences 🛠️  
-I’ve had the privilege to work as a **Deep Learning Research Intern** at NTU & Duke-NUS Medical School, where I developed high-accuracy AI models to enhance tumor diagnostics. As a **Firmware R&D Intern** at Orient Electric, I programmed microcontrollers and optimized firmware for high-efficiency lighting systems, showcasing my expertise in embedded software.
+### **Professional Experiences 🛠️**  
+- **Machine Learning Intern** at **Panasonic** (Jan 2025 – Present)  
+  Enhanced YOLOv5 for self-driving navigation systems, achieving a 15% improvement in detection accuracy through advanced loss function algorithms and fine-tuning on datasets like ImageNet and COCO.  
+
+- **Deep Learning Research Intern** at **NTU & Duke-NUS Medical School** (Aug 2024 – Present)  
+  Developed high-accuracy AI models to revolutionize tumor diagnostics, leveraging advanced image processing and segmentation techniques.  
+
+- **Firmware R&D Intern** at **Orient Electric** (May 2024 – Jul 2024)  
+  Programmed microcontrollers and optimized firmware for high-efficiency lighting systems, showcasing expertise in embedded software and system performance optimization.  
 
 ### Project Highlights 🚀  
 - **3D Drone Imaging and Reconstruction**: Designed and implemented an end-to-end workflow for autonomous drones to capture image sequences and generate accurate 3D reconstructions. This project leveraged advanced computer vision techniques to enable detailed, real-time mapping applications.
