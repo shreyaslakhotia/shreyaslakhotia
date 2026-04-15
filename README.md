@@ -1,5 +1,3 @@
-## About Me 👋  
-
 # Hi, I'm Shreyas 👋
 
 🚀 Robotics | Embodied AI | Machine Learning  
