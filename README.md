@@ -1,34 +1,117 @@
 ## About Me 👋  
-Hi there! I'm **Shreyas Lakhotia** 👋, currently pursuing my Bachelor’s in Electrical and Electronic Engineering with a second major in Data Analytics at Nanyang Technological University, Singapore. With a passion for AI, machine learning, and embedded systems, I’m on a journey to develop innovative solutions that bridge hardware and software for impactful real-world applications.
 
-### **Professional Experiences 🛠️**  
-- **Machine Learning Intern** at **Panasonic** (Jan 2025 – Present)  
-  Enhanced YOLOv5 for self-driving navigation systems, achieving a 15% improvement in detection accuracy through advanced loss function algorithms and fine-tuning on datasets like ImageNet and COCO.  
+# Hi, I'm Shreyas 👋
 
-- **Deep Learning Research Intern** at **NTU & Duke-NUS Medical School** (Aug 2024 – Present)  
-  Developed high-accuracy AI models to revolutionize tumor diagnostics, leveraging advanced image processing and segmentation techniques.  
+🚀 Robotics | Embodied AI | Machine Learning  
+🎓 Electrical & Electronic Engineering (Data Analytics Second Major) @ Nanyang Technological University Singapore   
+🏆 NTU President’s Research Scholar
 
-- **Firmware R&D Intern** at **Orient Electric** (May 2024 – Jul 2024)  
-  Programmed microcontrollers and optimized firmware for high-efficiency lighting systems, showcasing expertise in embedded software and system performance optimization.  
+📍 Based in Singapore 🇸🇬  
+🧭 Next stop: Stuttgart, Germany 🇩🇪  
+🌏 Exploring soon: Beijing • Shanghai • Hangzhou
 
-### Project Highlights 🚀  
-- **3D Drone Imaging and Reconstruction**: Designed and implemented an end-to-end workflow for autonomous drones to capture image sequences and generate accurate 3D reconstructions. This project leveraged advanced computer vision techniques to enable detailed, real-time mapping applications.
-- **AI in Education**: Analyzed socio-economic factors influencing student performance, achieving 86% model accuracy and providing actionable insights to support educational equity.
-- **Computer Vision and Deep Learning**: Developed machine learning models with advanced image processing and segmentation techniques, aiming to optimize tumor diagnostics and improve healthcare efficiency.
+---
 
-### Leadership & Achievements 🌟  
-As **Vice President of Deep Learning Week** at NTU, I helped organize one of Singapore’s largest AI hackathons, collaborating with industry partners to create an enriching experience for over 500 participants. At **NTU Garage@EEE**, I serve as Director, supporting startups through mentorship and organizing pitch events to connect them with investors.
+## 🧠 About Me
 
-### Skills 💻
-- **Programming Languages**: Python, C, C++, Embedded C, MATLAB, R
-- **Frameworks and Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-- **AI & Machine Learning**: Data Mining, Pattern Recognition, Neural Networks, Computer Vision, NLP
-- **Developer Tools**: GitHub, Google Cloud Platform, Visual Studio Code, PyCharm, R Studio
-- **Database Management**: MySQL
-- **Languages**: English, Hindi, French
+I build intelligent systems that **perceive, reason, and act in the real world**.
 
-I’m always excited to connect, collaborate, and learn from others in the tech community. Check out my work below or feel free to reach out!
+My work sits at the intersection of:
+- 🤖 Robotics & Embodied AI  
+- 🧠 Vision-Language Models (VLMs)  
+- ⚙️ Real-time ML Systems & Deployment  
 
-### Get In Touch 📬  
-- **Email**: shreyaslakhotia@gmail.com | shreyas010@e.ntu.edu.sg  
-- **LinkedIn**: [Shreyas Lakhotia](https://www.linkedin.com/in/shreyaslakhotia/)
+I enjoy taking ideas from **research & development → prototype → production-ready systems**.
+
+---
+
+## 🔬 What I'm Currently Doing
+
+- 🏛 Incoming Research Intern @ Max Planck Institute for Intelligent Systems, Stuttgart Germany
+- 🤖 Building embodied AI systems for perception-driven robotics
+- 🧠 Exploring multimodal reasoning (vision + language + action)
+- ⚡ Exploring agentic workflows, tool-augmented LLMs, and real-time decision systems
+- 🔗 Playing with MCP, environment APIs, and autonomous agent stacks
+- 🚀 Interested in deploying AI systems in the physical world
+
+---
+
+## 🏗 Featured Work & Industry Experience
+
+### 🤖 Embodied AI Study Buddy (MotivAI NTU Research)
+> Emotion-aware AI agent with real-time interaction on embedded hardware
+
+- Built a **vision-language model pipeline** for emotion detection + response generation  
+- Deployed across **Raspberry Pi + remote inference (Ollama)**  
+- Integrated **speech (Whisper), TTS, and expressive GUI (Tkinter + LCD)**  
+- Designed for **empathetic human-AI interaction**
+
+---
+
+### 🦾 Robotic Disassembly System (Bosch)
+> End-to-end perception → reasoning → execution pipeline
+
+- Developed **VLM pipelines** for object understanding  
+- Built **multimodal control policies** for robotic manipulation  
+- Reduced failure states  
+
+---
+
+### 🧬 Medical Vision AI (A*STAR)
+> High-performance deep learning for pathology
+
+- Trained **U-Net, DeepLabV3, SAM** on high-dimensional bio-informatic data  
+- Achieved **IoU 0.87, mAP 92%**  
+- Optimized inference latency by **40% using CUDA + parallelism**
+
+---
+
+### 🚗 Autonomous Driving Perception (Panasonic)
+> Multi-sensor fusion for real-time perception
+
+- Integrated **diverse camera pipelines**  
+- Improved robustness under environmental shifts by **38%**  
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+- Python, C, C++, R, JavaScript, HTML, MATLAB
+
+**ML / AI**
+- PyTorch, TensorFlow, Transformers, VLMs  
+
+**Robotics**
+- ROS2, MoveIt, Gazebo, Isaac Sim, CARLA  
+
+**Systems**
+- Docker, Kubernetes, FastAPI  
+
+**Data Engineering**
+- SQL, PySpark, Airflow, BigQuery
+
+---
+
+## 🧩 What I Care About
+
+- Building **real-world AI systems**, not just models  
+- Bridging **research and deployment**  
+- Designing systems that are **robust, scalable, and interpretable**
+
+---
+
+## 📊 GitHub Stats
+
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyaslakhotia&show_icons=true)
+
+---
+
+## 📫 Let's Connect
+
+- 📧 shreyas010@e.ntu.edu.sg  
+- 💼 LinkedIn: https://www.linkedin.com/in/shreyaslakhotia  
+---
+
+## ⚡ Fun Fact
+Last year I spent more money on coffee than actual food (a secret we shall hide from my parents), which feels like a red flag but also explains a lot about my productivity. If I’m not building something, you can find me at the nearest coffee shop convincing myself that this next cup is the one that unlocks my true potential. It hasn’t happened yet, but I’m committed to the experiment.
